@@ -1,14 +1,7 @@
 hello,git
 hello,git
 hello,git
-hello,git
-hello,git
-hello,git
-hello,git
-hello,git
-hello,git
-hello,git
-hello,git
 this version-3
 this version-3
 this version-3
+hot-fix change
