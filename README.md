@@ -1,5 +1,4 @@
 ## 一、Git常用撤销操作
-
 ### 1、未git add 
 直接使用`git checkout -- 文件`，即可撤销修改，撤销修改就回到和版本库一模一样的样子。
 
@@ -12,6 +11,7 @@
 ### 4、已push
 `git reset --hard HEAD`回滚到最近的一次push版本
 `git reset --hard <commit id>` 回滚到指定commit id的push版本
+
 
 ## 二、Git合并操作
 ### 1、git merge
